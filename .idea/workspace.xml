@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cfee53-3441-4237-a92e-f435a03e145e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx/03 -Expressions and variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx/03 -Expressions and variables.py" afterDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,20 +43,85 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01 - Explore Python syntax.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02 - Review_ Data types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03 -Expressions and variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.M1- Graded assesment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Study Guide- Module 1 Graded Quiz.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Py__google__Basic__Py__Syntax&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Software_enginnering-Code_base&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Doctests in 19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.01. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
+    "Python.1. Comparison Operators.executor": "Run",
+    "Python.1. Variables.executor": "Run",
+    "Python.1. [BIA] Arithmetic Rules in Python.executor": "Run",
+    "Python.10- [IGA] Inheritance Extending Functionality.executor": "Run",
+    "Python.10. Nested Loops.executor": "Run",
+    "Python.10. Quiz.executor": "Run",
+    "Python.10. [BIA] Ans 4.3 Creating Custom Functions P1.executor": "Run",
+    "Python.11- [IGA] Encapsulation Hiding Information.executor": "Run",
+    "Python.11. Iterables.executor": "Run",
+    "Python.11. [IGA] Creating Basic Custom Functions P 2.executor": "Run",
+    "Python.11.1 Creating Basics Custom function.executor": "Run",
+    "Python.12- [IGA] Exercise 9.3 Implementing Encapsulation.executor": "Run",
+    "Python.12. While Loops.executor": "Run",
+    "Python.13- [IGA] Answer 9.3 Implementing Encapsulation.executor": "Run",
+    "Python.13. [IGA] ans4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.13.1 [IGA] answer 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.14- [IGA] Understanding Magic Dunder Methods.executor": "Run",
+    "Python.14. [IGA] Creating Advanced Functions.executor": "Run",
+    "Python.15- [GA] Understanding Composition and Aggregation.executor": "Run",
+    "Python.15. [IGA] Ex 4.5 Creating Advanced Functions.executor": "Run",
+    "Python.16. [IGA] Answer 4.5 Creating Advanced Functions.executor": "Run",
+    "Python.17- [GA] Level 9 Final Exercise Answer Simple Bank Account Manager.executor": "Run",
+    "Python.17. [IGA] Returning Values from Custom Functions.executor": "Run",
+    "Python.17.1 [IGA] Returning Values from Custom Functions.executor": "Run",
+    "Python.18- [GA] Level 9 Final Exercise Simple Bank Account Manager (17- answer ).executor": "Run",
+    "Python.18. [IGA] Ex 4.6 Returning Values Custom Functions.executor": "Run",
+    "Python.19. [IGA] Answer 4.6 Returning Values ustom Functions.executor": "Run",
+    "Python.2- [BIGA] Understanding Classes and Instances.executor": "Run",
+    "Python.2. Conditional Statements.executor": "Run",
+    "Python.2. Variable Names.executor": "Run",
+    "Python.2. [BIA] Ex3.1 Arithmetic Rules in Python.executor": "Run",
+    "Python.2. [BIA] How to Code Data Types & Variables in Python.executor": "Run",
+    "Python.2. [BIGA] How Does the List Data Type Work.executor": "Run",
+    "Python.20. [BIGA] Level 4 Final Exercise Simple Calculator with Functions.executor": "Run",
+    "Python.3- [BIGA] Exercise 5.1 The List Data Type Work.executor": "Run",
+    "Python.3- [BIGA] Exercise 9.1 Creating Your First Class and Instance.executor": "Run",
+    "Python.3. Strings.executor": "Run",
+    "Python.3. Ternary Operator.executor": "Run",
+    "Python.3. [BIA] Stringing Together Variables.executor": "Run",
+    "Python.4- [BIGA] Answer 9.1 Creating Your First Class and Instance.executor": "Run",
+    "Python.4. Escape Sequences.executor": "Run",
+    "Python.4. Logical Operators.executor": "Run",
+    "Python.4. [BIA] Ex 3.2 Stringing Together Variables.executor": "Run",
+    "Python.5- [BIGA] Defining Methods in a Class.executor": "Run",
+    "Python.5- [BIGA] Level 5 Final Exercise Grocery Shopping List.executor": "Run",
+    "Python.5. Formatted Strings.executor": "Run",
+    "Python.5. Short-circuit Evaluation.executor": "Run",
+    "Python.5. [BIA] Input Built in Python Function.executor": "Run",
+    "Python.5. [BIA] Level 3 Final Exercise Simple Interest Calculator for a Savings Account.executor": "Run",
+    "Python.6-[IGA] Understanding Self in Python.executor": "Run",
+    "Python.6. Chaining Comparison Operators.executor": "Run",
+    "Python.6. String Methods.executor": "Run",
+    "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
+    "Python.7- [IGA] Class Attributes Versus Instance Attributes.executor": "Run",
+    "Python.7. Numbers.executor": "Run",
+    "Python.7. Quiz.executor": "Run",
+    "Python.8- [IGA] Exercise 9.2 Classes, Instances and Attributes.executor": "Run",
+    "Python.8. For Loops.executor": "Run",
+    "Python.8. Working with Numbers.executor": "Run",
+    "Python.8. [BIA] Creating Basic Custom Functions Part 1.executor": "Run",
+    "Python.9-[IGA] Answer 9.2 Classes, Instances and Attributes.executor": "Run",
+    "Python.9. For..Else.executor": "Run",
+    "Python.9. Type Conversion.executor": "Run",
+    "Python.9. [BIA] Ex 4.3 Creating Custom Functions P1.executor": "Run",
+    "Python.Hello World.executor": "Run",
+    "Python.M1- Graded assesment.executor": "Run",
+    "Python.Study Guide- Module 1 Graded Quiz.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Cpy-03__Control__Flow",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "G:/pythonProject/OpsLab_WIth_Hammad",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Software_enginnering-Code_base" />
@@ -68,7 +130,7 @@
       <recent name="C:\Users\Hammad\IdeaProjects\Software_enginnering-Code_base\100 Day  In Python by Dr. Angela Yu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03 -Expressions and variables">
+
     <configuration name="Hello world.java" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -78,7 +140,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="01 - Explore Python syntax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,11 +149,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx/01 - Explore Python syntax.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02 - Review_ Data types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,11 +167,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx/02 - Review_ Data types.py" />
+SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/11. Iterables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03 -Expressions and variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12. While Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Basic Python Sytanx/03 -Expressions and variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/12. While Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="M1- Graded assesment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8. For Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/M1- Graded assesment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/8. For Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Study Guide- Module 1 Graded Quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9. For..Else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_enginnering-Code_base" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python With Google--Crash Course on Python/Module01 - Hello Python/Study Guide- Module 1 Graded Quiz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete Python Mastery[MH]/03- Control Flow/9. For..Else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,13 +242,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.10. Nested Loops" />
+      <item itemvalue="Python.11. Iterables" />
+      <item itemvalue="Python.12. While Loops" />
+      <item itemvalue="Python.8. For Loops" />
+      <item itemvalue="Python.9. For..Else" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03 -Expressions and variables" />
-        <item itemvalue="Python.02 - Review_ Data types" />
-        <item itemvalue="Python.01 - Explore Python syntax" />
-        <item itemvalue="Python.M1- Graded assesment" />
-        <item itemvalue="Python.Study Guide- Module 1 Graded Quiz" />
+
       </list>
     </recent_temporary>
   </component>

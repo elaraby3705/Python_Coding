@@ -1,0 +1,9 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore any other specific file
+misc.xml
+.idea/workspace.xml
